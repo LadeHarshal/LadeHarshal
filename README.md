@@ -3,9 +3,9 @@
 
 - 🔭 I’ve worked on [StichHub](https://stichhub.vercel.app/#)
 
-- 🌱 I’m currently learning **Data Science, python , Unity ,**
+- 🌱 I’m currently learning **Data Science, python , Unity **
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I write articles on [https://medium.com/](https://medium.com/)
 
 - 💬 Ask me about **React**
 
